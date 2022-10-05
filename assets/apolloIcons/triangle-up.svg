@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>triangle-up</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/triangle/up" fill="#000000" fill-rule="nonzero">
+            <path d="M17.8523062,15.6389724 L12.8755177,8.4324769 C12.6901061,8.16401303 12.3580738,8 12,8 C11.6419262,8 11.3098939,8.16401303 11.1244823,8.4324769 L6.1476938,15.6389724 C5.95657566,15.9159201 5.95054304,16.2616268 6.13190852,16.5435668 C6.313274,16.8255067 6.6539011,16.9999407 7.0232115,17 L16.9767885,17 C17.3460989,16.9999407 17.686726,16.8255067 17.8680915,16.5435668 C18.049457,16.2616268 18.0434243,15.9159201 17.8523062,15.6389724 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

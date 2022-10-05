@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>home</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/utility/home" fill="#000000" fill-rule="nonzero">
+            <g id="house-entrance">
+                <path d="M24,9.5 C23.9998047,9.19032444 23.8561487,8.89821174 23.611,8.709 L12.611,0.209 C12.2506476,-0.0698563171 11.7473524,-0.0698563171 11.387,0.209 L0.387,8.709 C0.142602795,8.89861975 -0.00028358439,9.19066917 -7.77156064e-16,9.5 L-7.77156064e-16,23 C-7.09520748e-16,23.5522847 0.44771525,24 1,24 L9,24 C9.27614237,24 9.5,23.7761424 9.5,23.5 L9.5,19 C9.5,17.6192881 10.6192881,16.5 12,16.5 C13.3807119,16.5 14.5,17.6192881 14.5,19 L14.5,23.5 C14.5,23.7761424 14.7238576,24 15,24 L23,24 C23.5522847,24 24,23.5522847 24,23 L24,9.5 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

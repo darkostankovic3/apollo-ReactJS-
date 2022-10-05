@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>search</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/utility/search" fill="#000000" fill-rule="nonzero">
+            <g id="search-alternate">
+                <path d="M23.384,21.619 L16.855,15.09 C19.8121553,11.2027145 19.2516834,5.68892669 15.5728164,2.47618737 C11.8939495,-0.736551948 6.35490842,-0.549443611 2.9012324,2.9042324 C-0.552443611,6.35790842 -0.739551948,11.8969495 2.47318737,15.5758164 C5.68592669,19.2546834 11.1997145,19.8151553 15.087,16.858 L21.616,23.387 C22.1077348,23.8666586 22.8922652,23.8666586 23.384,23.387 C23.871759,22.8985895 23.871759,22.1074105 23.384,21.619 Z M2.75,9.5 C2.75,5.77207794 5.77207794,2.75 9.5,2.75 C13.2279221,2.75 16.25,5.77207794 16.25,9.5 C16.25,13.2279221 13.2279221,16.25 9.5,16.25 C5.77390544,16.2455917 2.75440828,13.2260946 2.75,9.5 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

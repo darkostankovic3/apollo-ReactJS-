@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>clock</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/utility/clock" fill="#000000" fill-rule="nonzero">
+            <g id="time-clock-circle-alternate">
+                <path d="M12,-4.42534898e-16 C5.372583,-8.48347148e-16 8.11624501e-16,5.372583 0,12 C-8.11624501e-16,18.627417 5.372583,24 12,24 C18.627417,24 24,18.627417 24,12 C23.9922852,5.37578119 18.6242188,0.0077147623 12,-4.42534898e-16 Z M12,22 C6.4771525,22 2,17.5228475 2,12 C2,6.4771525 6.4771525,2 12,2 C17.5228475,2 22,6.4771525 22,12 C21.9939376,17.5203344 17.5203344,21.9939376 12,22 Z" id="Shape"></path>
+                <path d="M17.134,15.81 L12.5,11.561 L12.5,6.5 C12.5,5.94771525 12.0522847,5.5 11.5,5.5 C10.9477153,5.5 10.5,5.94771525 10.5,6.5 L10.5,12 C10.499692,12.2805586 10.6172557,12.5483425 10.824,12.738 L15.783,17.283 C16.1920172,17.6508621 16.8202071,17.6237428 17.196,17.222 C17.5684537,16.8148431 17.5407074,16.1829445 17.134,15.81 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

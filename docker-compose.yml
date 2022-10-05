@@ -1,0 +1,22 @@
+version: "3"
+
+services:
+  # Watch the src directory for any changes and run visual regression tests.
+  local_test:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    command: npm run test-in-docker:dev
+    volumes:
+      - "./src:/app/src"
+
+  # Take code at time of starting this service and run visual regression tests.
+  ci_test:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    environment:
+      - CI=true
+    command: npm run test-in-docker:ci
+    volumes:
+      - "./test_results:/app/test_results"

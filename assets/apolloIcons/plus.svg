@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>plus</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/utility/plus" fill="#000000" fill-rule="nonzero">
+            <g id="add">
+                <path d="M0,12 C1.01453063e-16,12.8284271 0.671572875,13.5 1.5,13.5 L10.25,13.5 C10.3880712,13.5 10.5,13.6119288 10.5,13.75 L10.5,22.5 C10.5,23.3284271 11.1715729,24 12,24 C12.8284271,24 13.5,23.3284271 13.5,22.5 L13.5,13.75 C13.5,13.6119288 13.6119288,13.5 13.75,13.5 L22.5,13.5 C23.3284271,13.5 24,12.8284271 24,12 C24,11.1715729 23.3284271,10.5 22.5,10.5 L13.75,10.5 C13.6119288,10.5 13.5,10.3880712 13.5,10.25 L13.5,1.5 C13.5,0.671572875 12.8284271,5.07265313e-17 12,0 C11.1715729,-5.07265313e-17 10.5,0.671572875 10.5,1.5 L10.5,10.25 C10.5,10.3880712 10.3880712,10.5 10.25,10.5 L1.5,10.5 C0.671572875,10.5 1.01453063e-16,11.1715729 0,12 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
